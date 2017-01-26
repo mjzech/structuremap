@@ -17,7 +17,7 @@
 
 \
 
-namespace NDMC.Services.DependencyResolution {
+namespace Services.DependencyResolution {
     using StructureMap.Configuration.DSL;
     using StructureMap.Graph;
 	
