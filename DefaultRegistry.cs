@@ -15,11 +15,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-using NDMC.DALs;
-using NDMC.DALs.DALs.USDAStatistics;
-using NDMC.DALs.Repositories.USDACropsInDrought;
-using NDMC.DALs.Repositories.USDAStatistics;
-using NDMC.DALs.Repositories.USDAStatistics.Interfaces;
+\
 
 namespace NDMC.Services.DependencyResolution {
     using StructureMap.Configuration.DSL;
